@@ -1,7 +1,8 @@
 name: otaku_icons
 description: Otaku Icons
 version: 0.1.0
-
+homepage: https://github.com/iamngoni/otaku_icons
+repository: https://github.com/iamngoni/otaku_icons
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
